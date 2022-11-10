@@ -1,0 +1,233 @@
+body {
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.collapse  .header{
+    background-color: #F6F5FF;
+}
+
+
+.text-navbar {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    text-transform: capitalize;
+    color: #1D1D1D;
+}
+
+.btn-light {
+    background-color: #ffffff;
+    box-shadow: 1px 1px #f3eded;
+    font-size: 12px;
+} 
+
+.btn-gray {
+    background-color: #F2F2F2;
+}
+
+.btn-primary {
+    background: #341EFF;
+    font-size: 12px;
+    border-radius: 8.05352px ;
+}
+
+.btn-primary-light {
+    background: #EDEBFF;
+    font-size: 12px;
+    border-color: #EDEBFF;
+    border-radius: 8.05352px ;
+    color: #341EFF;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.description {
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-size: 14px;
+    color: #8D9299;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.tickets-title {
+    font-size: 44px;
+}
+
+
+.tickets-line-title {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px; 
+    line-height: 19px;
+    color: #000000;
+}
+
+.ticket-description {
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 34px;
+    color: #000000;
+}
+
+.bg-tickets-1 {
+    background-color: #F6F5FF;;
+}
+
+.bg-tickets-2 {
+    background-color: #EDFCF4;
+}
+
+.bg-tickets-3 {
+    background-color: #FFF3F0;
+}
+
+.bg-checkbox {
+    height: fit-content;
+    width: fit-content;
+    border-radius: 4px;
+    background-color: #F6F5FF;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+.input-text {
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    color: #1D1D1D;
+}
+
+.plan-title {
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+.plan-title-pr {
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+.price {
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 61px;
+    color: #000000;
+}
+
+.mo {
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    position: relative;
+    top: -15px;
+}
+
+
+.bg-dep-primary {
+    background-color: #341EFF;
+}
+
+.input-contact {
+   width: 50px;
+}
+
+.contact-bg {
+    background-image: url(/assets/img/contact-bg.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: fit-content;
+}
+
+.input-group:placeholder-shown {
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    text-transform: lowercase;
+    color: #8D9299;
+}
+
+.contact-title { 
+    font-family: 'Hel    vetica Neue';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: uppercase;
+    color: #8785AA;  
+}
+
+.contact-title-2 {
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 54px;
+    color: #000000;
+}
+
+.btn-contact {
+    position: relative;
+    top: 3px;
+    right: 70px;
+    height: 29px;
+}
+
+.footer-title {
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #1C1C1D;
+}
+
+.footer-nav {
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #7A7A7E;
+}
+
+.copraight {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #C2C2C2;
+    margin-right: 150px;
+}

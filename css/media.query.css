@@ -1,0 +1,47 @@
+@media only screen and (max-width: 500px) {
+    .img-box {
+        margin-left: -100px;
+    }
+    .border-mobile {
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        width: fit-content;
+}
+    .contact-bg {
+        position: relative;
+        left: -60px;
+        width: 500px;
+        height: 400px; 
+    }
+    .contact-title {
+        position: relative;
+        top: 60px;
+    }
+    .contact-title-2 {
+     margin-top: 70px;
+    }
+    .input-group {
+     position: relative;
+     bottom: 48px; 
+     right: 10px;  
+    }
+
+    .footer-bottom-box {
+        margin-top: 50px;
+    }
+}
+
+@media only screen and (max-width: 770px) {
+    .input-group {
+        position: relative;
+        bottom: 48px; 
+        right: 10px;  
+    }
+}
+
+@media only screen and (max-width: 994px) {
+    .envelope-box {
+        display: none;
+    }
+    
+}

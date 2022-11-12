@@ -175,6 +175,7 @@ input:checked {
     background-size: contain;
     background-repeat: no-repeat;
     width: auto;
+    height: auto;
 }
 
 .input-group:placeholder-shown {
